@@ -7,7 +7,7 @@
 const PandaDouxYT = {
     Age: 16,
     Description: "Hello ! My name is PandaDouxYT and I am a developer! I am often on the internet...",
-    Stars: 449,
+    Friends: Too Much,
     Known languages: ["HTML", "CSS", "PHP", "JavaScript", "Python", "Pascal", "C", "Scratch"],
     FavouriteThings: ["GitHub", "VS Code", "Chips"]
 };
