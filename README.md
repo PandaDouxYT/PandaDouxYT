@@ -1,5 +1,5 @@
 <h1 align="center">Hi there</h1>
-<p align="center">Let me introduce myself, my name is Anthony aka Panda' and I am a developer! I develop in many languages including HTML, CSS, PHP, JavaScript, Python, Pascal, C, Scratch <b>UwU<b>. Have a nice day!</p>
+<p align="center">Let me introduce myself, my name is <b>Anthony</b> aka <b>Panda'</b> and I am a <b>developer</b>! I develop in many languages including HTML, CSS, PHP, JavaScript, Python, Pascal, C, Scratch <b>UwU</b>. Have a nice day!</p>
 
 ## Hello, Im PandaDouxYT
 
