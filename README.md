@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there</h1>
+<p align="center">Let me introduce myself, my name is Anthony aka Panda' and I am a developer! I develop in many languages including HTML, CSS, PHP, JavaScript, Python, Pascal, C, Scratch <b>UwU<b>. Have a nice day!</p>
 
-<!--
-**PandaDouxYT/PandaDouxYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, Im PandaDouxYT <img src="https://www.anthonycode.fr/images/a3_blank.png" width="30px">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const PandaDouxYT = {
+    Age: 16,
+    Description: "Hello ! My name is PandaDouxYT and I am a developer! I am often on the internet...",
+    Stars: 449,
+    Known languages: ["HTML", "CSS", "PHP", "JavaScript", "Python", "Pascal", "C", "Scratch"],
+    FavouriteThings: ["GitHub", "VS Code", "Chips"]
+};
+```
