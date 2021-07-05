@@ -12,4 +12,4 @@ const PandaDouxYT = {
     FavouriteThings: ["GitHub", "VS Code", "Chips"]
 };
 ```
-<p align="center"><img src="https://www.anthonycode.fr/images/a3_blank.png" width="50px"></p>
+<p align="center"><a href="https://www.anthonycode.fr/"><img src="https://www.anthonycode.fr/images/a3_blank.png" width="50px"></a></p>
