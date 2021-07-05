@@ -1,7 +1,7 @@
 <h1 align="center">Hi there</h1>
 <p align="center">Let me introduce myself, my name is Anthony aka Panda' and I am a developer! I develop in many languages including HTML, CSS, PHP, JavaScript, Python, Pascal, C, Scratch <b>UwU<b>. Have a nice day!</p>
 
-## Hello, Im PandaDouxYT <img src="https://www.anthonycode.fr/images/a3_blank.png" width="20px">
+## Hello, Im PandaDouxYT
 
 ```js
 const PandaDouxYT = {
@@ -12,3 +12,4 @@ const PandaDouxYT = {
     FavouriteThings: ["GitHub", "VS Code", "Chips"]
 };
 ```
+<p align="center"><img src="https://www.anthonycode.fr/images/a3_blank.png" width="50px"></p>
