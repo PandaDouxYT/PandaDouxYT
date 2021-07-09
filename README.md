@@ -12,4 +12,5 @@ const PandaDouxYT = {
     FavouriteThings: ["GitHub", "VS Code", "Chips"]
 };
 ```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandadouxyt&layout=compact&theme=gotham">
 <p align="center"><a href="https://www.anthonycode.fr/" target="_blank"><img src="https://www.anthonycode.fr/images/a3_blank.png" width="50px"></a></p>
