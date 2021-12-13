@@ -1,7 +1,7 @@
 <h1 align="center">Hi there</h1>
 <p align="center">Let me introduce myself, my name is <b>Anthony</b> aka <b>Panda'</b> and I am a <b>developer</b>! I develop in many languages including HTML, CSS, JavaScript, PHP, Python, C, Pascal, Scratch <b>UwU</b>. Have a nice day!</p>
 
-## Hello, Im PandaDouxYT [![Repos Badge](https://badges.pufler.dev/repos/PandaDouxYT)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/PandaDouxYT)
+## Hello, Im PandaDouxYT   [![Repos Badge](https://badges.pufler.dev/repos/PandaDouxYT)](https://badges.pufler.dev) ![Commits Badge](https://badges.pufler.dev/commits/monthly/PandaDouxYT)
 
 ```js
 const PandaDouxYT = {
