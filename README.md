@@ -12,6 +12,8 @@ const PandaDouxYT = {
     FavouriteThings: ["GitHub", "VS Code", "Vodka"]
 };
 ```
-
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 ![Alt](https://discord.c99.nl/widget/theme-4/461575193463226379.png)
 <p align="center"><a href="https://www.anthonycode.fr/" target="_blank"><img src="https://www.anthonycode.fr/images/a3_blank.png" width="50px"></a></p>
