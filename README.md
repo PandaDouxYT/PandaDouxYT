@@ -13,7 +13,7 @@ const PandaDouxYT = {
 };
 ```
 <p align="center">
-  <img width="500" height="auto" src="https://discord.c99.nl/widget/theme-4/461575193463226379.png">
+  <img width="395" height="auto" src="https://discord.c99.nl/widget/theme-4/461575193463226379.png">
 </p>
 
 <p align="center"><a href="https://www.anthonycode.fr/" target="_blank"><img src="https://www.anthonycode.fr/images/a3_blank.png" width="50px"></a></p>
