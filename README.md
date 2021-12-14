@@ -20,10 +20,10 @@ const PandaDouxYT = {
 <img align="left" alt="CSS3" width="26px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
 <img align="left" alt="Node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+<img align="left" alt="MySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/256/1*Y6USBdJWvRYVyDPh8fF7_A.png" />
-<img align="left" alt="Npm" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" />
-<img align="left" alt="Php" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-php01_icon-icons.com_50777.png" />
+<img align="left" alt="Npm" width="26px" src="https://blog.oxiane.com/wp-content/uploads/2017/02/npm-logo.png" />
+<img align="left" alt="Php" width="26px" src="https://www.pngkey.com/png/full/109-1090674_php-logo-png-php-logo-png-white.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />
 <br><br>
