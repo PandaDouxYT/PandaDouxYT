@@ -23,7 +23,7 @@ const PandaDouxYT = {
 <img align="left" alt="MySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" />
 <img align="left" alt="Npm" width="26px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
-<img align="left" alt="Php" width="26px" src="https://www.pngkey.com/png/full/109-1090674_php-logo-png-php-logo-png-white.png" />
+<img align="left" alt="Php" width="26px" src="https://clipart.info/images/ccovers/1499794873php-logo-filled-png.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />
 <br><br>
