@@ -22,6 +22,8 @@ const PandaDouxYT = {
 <img align="left" alt="Node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/256/1*Y6USBdJWvRYVyDPh8fF7_A.png" />
+<img align="left" alt="Npm" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" />
+<img align="left" alt="Php" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-php01_icon-icons.com_50777.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />
 <br><br>
