@@ -12,6 +12,7 @@ const PandaDouxYT = {
     FavouriteThings: ["GitHub", "VS Code", "Vodka"]
 };
 ```
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
