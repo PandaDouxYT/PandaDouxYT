@@ -5,7 +5,7 @@
 
 ```js
 const PandaDouxYT = {
-    Age: 16,
+    Age: 17,
     Description: "Hello, my name is Anthony and I'm mainly a web developer.",
     Friends: Too Much,
     KnownLanguages: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C", "Pascal"],
