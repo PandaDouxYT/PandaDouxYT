@@ -5,11 +5,11 @@
 
 ```js
 const PandaDouxYT = {
-    Age: 17,
-    Description: "Hello, my name is Anthony and I'm mainly a web developer.",
-    Friends: Too Much,
-    KnownLanguages: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C", "Pascal"],
-    FavouriteThings: ["GitHub", "VS Code", "Vodka"]
+    age: 17,
+    description: "Hello, my name is Anthony and I'm mainly a web developer.",
+    friends: Too Much,
+    knownLanguages: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C", "Pascal"],
+    favouriteThings: ["GitHub", "VS Code", "Vodka"]
 };
 ```
 
