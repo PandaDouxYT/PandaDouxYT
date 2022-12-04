@@ -13,7 +13,6 @@ const PandaDouxYT = {
 };
 ```
 [![GitHub PandaDouxYT](https://img.shields.io/github/followers/PandaDouxYT?label=follow&style=social)](https://github.com/PandaDouxYT)
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
