@@ -8,9 +8,10 @@
 const PandaDouxYT = {
     age: 17,
     description: "Hello, my name is Anthony and I'm mainly a web developer.",
+    languages: ["French", "English", "Dutch"],
     friends: Too Much,
-    knownLanguages: ["HTML", "CSS", "JavaScript", "PHP", "Python", "C", "Pascal"],
-    favouriteThings: ["GitHub", "VS Code", "Vodka"]
+    knownLanguages: ["HTML", "CSS", "JavaScript", "PHP", "SQL", "Python", "C", "Pascal", "Bash"],
+    favouriteThings: ["GitHub", "VS Code", "Figma", "Vodka"]
 };
 ```
 ### Languages and Tools:
