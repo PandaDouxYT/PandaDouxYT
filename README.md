@@ -15,6 +15,8 @@ const PandaDouxYT = {
 };
 ```
 ## 🛠️ Languages and Tools
+ 
+ .
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" />
@@ -31,7 +33,7 @@ const PandaDouxYT = {
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />
  
  .
- 
+  
 ## 📬 Contact
 - [Website](https://www.anthonycode.fr)
 - [LinkedIn](https://www.linkedin.com/in/anthony-v-22065a205/)
