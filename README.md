@@ -29,9 +29,7 @@ const PandaDouxYT = {
 <img align="left" alt="Npm" width="26px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />
- 
- ᲼
-  
+᲼
 ## 📬 Contact
 - [Website](https://www.anthonycode.fr)
 - [LinkedIn](https://www.linkedin.com/in/anthony-v-22065a205/)
