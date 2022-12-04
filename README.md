@@ -1,7 +1,7 @@
 <h1 align="center">Hi there</h1>
 <p align="center">Let me introduce myself, my name is <b>Anthony</b> aka <b>Panda'</b> and I am a <b>developer</b>! I develop in many languages including HTML, CSS, JavaScript, PHP, Python, C, Pascal. Have a nice day!</p>
 
-# 👋 Hello, Im PandaDouxYT  [![GitHub PandaDouxYT](https://img.shields.io/github/followers/PandaDouxYT?label=follow&style=social)](https://github.com/PandaDouxYT)
+## 👋 Hello, Im PandaDouxYT  [![GitHub PandaDouxYT](https://img.shields.io/github/followers/PandaDouxYT?label=follow&style=social)](https://github.com/PandaDouxYT)
 
 
 ```js
@@ -14,7 +14,7 @@ const PandaDouxYT = {
     favouriteThings: ["GitHub", "VS Code", "Figma", "Vodka"]
 };
 ```
-# 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools:
   
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" />
@@ -29,8 +29,8 @@ const PandaDouxYT = {
 <img align="left" alt="Npm" width="26px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />
-<br>
-# 📬 Contact
+ 
+## 📬 Contact
 - [Website](https://www.anthonycode.fr)
 - [LinkedIn](https://www.linkedin.com/in/anthony-v-22065a205/)
 - [contact@anthonycode.fr](mailto:contact@anthonycode.fr)
