@@ -1,7 +1,7 @@
 <h1 align="center">Hi there</h1>
 <p align="center">Let me introduce myself, my name is <b>Anthony</b> aka <b>Panda'</b> and I am a <b>developer</b>! I develop in many languages including HTML, CSS, JavaScript, PHP, Python, C, Pascal. Have a nice day!</p>
 
-## Hello, Im PandaDouxYT[![GitHub PandaDouxYT](https://img.shields.io/github/followers/PandaDouxYT?label=follow&style=social)](https://github.com/PandaDouxYT)
+## Hello, Im PandaDouxYT  [![GitHub PandaDouxYT](https://img.shields.io/github/followers/PandaDouxYT?label=follow&style=social)](https://github.com/PandaDouxYT)
 
 
 ```js
