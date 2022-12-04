@@ -35,7 +35,7 @@ const PandaDouxYT = {
 - [LinkedIn](https://www.linkedin.com/in/anthony-v-22065a205/)
 - [contact@anthonycode.fr](mailto:contact@anthonycode.fr)
 - [Twitter](https://twitter.com/pandadouxyt)
-- 
+  
 <br><br>
 <p align="center">
   <img width="395" height="auto" src="https://discord.c99.nl/widget/theme-4/461575193463226379.png">
