@@ -1,7 +1,8 @@
 <h1 align="center">Hi there</h1>
 <p align="center">Let me introduce myself, my name is <b>Anthony</b> aka <b>Panda'</b> and I am a <b>developer</b>! I develop in many languages including HTML, CSS, JavaScript, PHP, Python, C, Pascal. Have a nice day!</p>
 
-## Hello, Im PandaDouxYT
+## Hello, Im PandaDouxYT[![GitHub PandaDouxYT](https://img.shields.io/github/followers/PandaDouxYT?label=follow&style=social)](https://github.com/PandaDouxYT)
+
 
 ```js
 const PandaDouxYT = {
@@ -12,7 +13,6 @@ const PandaDouxYT = {
     favouriteThings: ["GitHub", "VS Code", "Vodka"]
 };
 ```
-[![GitHub PandaDouxYT](https://img.shields.io/github/followers/PandaDouxYT?label=follow&style=social)](https://github.com/PandaDouxYT)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
