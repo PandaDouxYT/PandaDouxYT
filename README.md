@@ -15,7 +15,7 @@ const PandaDouxYT = {
 };
 ```
 # 🛠️ Languages and Tools:
-
+  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" />
@@ -29,13 +29,13 @@ const PandaDouxYT = {
 <img align="left" alt="Npm" width="26px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />
-
+  
 # 📬 Contact
 - [Website](https://www.anthonycode.fr)
 - [LinkedIn](https://www.linkedin.com/in/anthony-v-22065a205/)
 - [contact@anthonycode.fr](mailto:contact@anthonycode.fr)
 - [Twitter](https://twitter.com/pandadouxyt)
-  
+   
 <br><br>
 <p align="center">
   <img width="395" height="auto" src="https://discord.c99.nl/widget/theme-4/461575193463226379.png">
