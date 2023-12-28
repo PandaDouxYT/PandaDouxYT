@@ -6,7 +6,7 @@
 
 ```js
 const PandaDouxYT = {
-    age: 17,
+    age: 18,
     description: "Hello, my name is Anthony and I'm mainly a web developer.",
     languages: ["French", "English", "Dutch"],
     friends: Too Much,
