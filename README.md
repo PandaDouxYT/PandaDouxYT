@@ -24,7 +24,7 @@ const PandaDouxYT = {
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="C" width="26px" src="https://play-lh.googleusercontent.com/SlwksJ2T3l8puTazBhRUFKzp7IEh6WkXqTjhA13OWviRLmiVVY7kyKPlWNW2WN1PzeBR" />
 <img align="left" alt="Node.js" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
-<img align="left" alt="MySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
+<img align="left" alt="MySQL" width="26px" src="[https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png](https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png)" />
 <img align="left" alt="MongoDB" width="26px" src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" />
 <img align="left" alt="Npm" width="26px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
