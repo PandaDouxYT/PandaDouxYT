@@ -1,5 +1,5 @@
 <h1 align="center">Hi there</h1>
-<p align="center">Let me introduce myself, my name is <b>Anthony</b> aka <b>Panda'</b> and I am a <b>developer</b>! I develop in many languages including HTML, CSS, JavaScript, PHP, Python, C, Pascal. Have a nice day!</p>
+<p align="center">Let me introduce myself, my name is <b>Anthony</b>, developer with 6 years of experience. I would like to use my autonomy and my initiative, either individually or collaboratively. Creativity and sense of analysis guide my work. The daily exploration of new technologies is at the heart of my continuous learning process. Have a nice day!</p>
 
 ## 👋 Hello, Im Panda'
 
@@ -7,7 +7,7 @@
 ```js
 const PandaDouxYT = {
     age: 18,
-    description: "Hello, my name is Anthony, developer with 6 years of experience. I would like to use my autonomy and my initiative, either individually or collaboratively. Creativity and sense of analysis guide my work. The daily exploration of new technologies is at the heart of my continuous learning process.",
+    description: "📢 Student at HEH Mons & Web Developer",
     languages: ["French", "English", "Dutch"],
     friends: Too Much,
     webLanguages: ["HTML", "CSS", "JavaScript", "PHP"],
