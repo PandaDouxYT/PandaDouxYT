@@ -7,11 +7,13 @@
 ```js
 const PandaDouxYT = {
     age: 18,
-    description: "Hello, my name is Anthony and I'm mainly a web developer.",
+    description: "Hello, my name is Anthony, developer with 6 years of experience. I would like to use my autonomy and my initiative, either individually or collaboratively. Creativity and sense of analysis guide my work. The daily exploration of new technologies is at the heart of my continuous learning process.",
     languages: ["French", "English", "Dutch"],
     friends: Too Much,
-    knownLanguages: ["HTML", "CSS", "JavaScript", "PHP", "SQL", "Python", "C", "Pascal", "Bash"],
-    favouriteThings: ["GitHub", "VS Code", "Figma", "Vodka"]
+    webLanguages: ["HTML", "CSS", "JavaScript", "PHP"],
+    programmingLanguage: ["Python", "SQL", "C", "Pascal", "Bash"],
+    mobileLanguage: ["React Native", "Flutter"],
+    favouriteThings: ["GitHub", "Visual Studio Code", "Figma", "Vodka"]
 };
 ```
 ## 🛠️ Languages and Tools
@@ -29,8 +31,8 @@ const PandaDouxYT = {
 <img align="left" alt="Npm" width="26px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />
-  
-  ᲼
+<img align="left" alt="React Native" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="Flutter" width="26px" src="https://assets-global.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg" />
   
 ## 📬 Contact
 - [Website](https://www.anthonycode.fr)
