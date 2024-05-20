@@ -36,9 +36,9 @@ const PandaDouxYT = {
 <br>
     
 ## 📬 Contact
-- [Website](https://www.anthonycode.fr)
+- [Website](https://anthonycode.fr)
 - [Twitter](https://twitter.com/pandadouxyt)
-- [LinkedIn](https://www.linkedin.com/in/anthony-v-22065a205/)
+- [LinkedIn](https://www.linkedin.com/in/anthony-vergeylen/)
 - [contact@anthonycode.fr](mailto:contact@anthonycode.fr)
    
 <br><br>
