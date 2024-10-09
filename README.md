@@ -7,11 +7,11 @@
 ```js
 const PandaDouxYT = {
     age: 19,
-    description: "📢 Student at HEH Mons (IT, networks & telecommunications orientation) & Web Developer",
+    description: "📢 Student at HEH Mons (IT, networks & telecommunications) & Web Developer",
     languages: ["French", "English", "Dutch"],
     friends: Too Much,
     webLanguages: ["HTML", "CSS", "JavaScript", "PHP"],
-    programmingLanguage: ["Python", "SQL", "C", "Pascal", "Bash"],
+    programmingLanguage: ["Python", "Java", "C", "SQL" , "Pascal", "Bash"],
     mobileLanguage: ["React Native", "Flutter"],
     favouriteThings: ["GitHub", "Visual Studio Code", "Figma", "Vodka"]
 };
@@ -37,7 +37,7 @@ const PandaDouxYT = {
     
 ## 📬 Contact
 - [Website](https://anthonycode.fr)
-- [Twitter](https://twitter.com/pandadouxyt)
+- [Twitter]([https://twitter.com/pandadouxyt](https://x.com/anthonycodefr))
 - [LinkedIn](https://www.linkedin.com/in/anthony-vergeylen/)
 - [contact@anthonycode.fr](mailto:contact@anthonycode.fr)
    
